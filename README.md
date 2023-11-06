@@ -1,5 +1,7 @@
 # Client
 
+This is a frontend Angular 16 based template. Just to help creating projects and speeding up development time 😉
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
 ## Development server
